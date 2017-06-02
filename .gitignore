@@ -1,2 +1,2 @@
-results/* 
-!plots.dat
+results/plots/* 
+!d.dat
