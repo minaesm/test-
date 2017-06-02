@@ -2,3 +2,5 @@ this is a test about palo-alto
 * it is a very expensive place to live in 
 *crazy expensive
 * kind of weired people live there 
+* can bike to office 
+* has relatively ok burmese restaurant 
